@@ -1,11 +1,20 @@
 {
   "project" : "",
   "projectId" : "4eefd768-437b-4cf1-bf57-507f656f6da4",
-  "commit-time" : "2026-07-03T03:09:38Z",
-  "commit-sha" : "102d8a362e3506e42f3e1c502e025372126c303c",
+  "directoryAsset" : {
+    "name" : "DataStage-DirectoryAsset.json",
+    "sha" : "d2a7b9cdfda5cd223b67bffcffecf4146b28942c",
+    "size" : 62,
+    "asset_type" : "directoryAsset",
+    "resource_key" : "",
+    "iam_id" : "",
+    "git_user" : "AlfonsoGarciaPalacios"
+  },
+  "commit-time" : "2026-07-03T03:40:39Z",
+  "commit-sha" : "c6ce891a3eaf2f494eba701c00c2473fb7b2377a",
   "readme" : {
     "name" : "DataStage-README.json",
-    "sha" : "699ca2e73e7f3b7742c87be02c3456212ae4cee8",
+    "sha" : "6c9561a2c28dfcc77ddb2c0c5ebf85f2c30455c8",
     "size" : 860,
     "asset_type" : "readme",
     "resource_key" : "",

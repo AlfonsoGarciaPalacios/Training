@@ -2,7 +2,7 @@
   "project" : "GITHUB integrado",
   "projectId" : "4eefd768-437b-4cf1-bf57-507f656f6da4",
   "created_by" : "cpadmin",
-  "created_at" : "2026-07-03T15:09:32.497888587Z",
+  "created_at" : "2026-07-03T15:40:33.221350928Z",
   "environment" : "cp4d",
   "services_info" : [ {
     "name" : "ds-canvas",
