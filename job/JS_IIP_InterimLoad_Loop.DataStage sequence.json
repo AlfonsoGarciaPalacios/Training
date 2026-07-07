@@ -1,0 +1,28 @@
+{
+  "metadata" : {
+    "name" : "JS_IIP_InterimLoad_Loop.DataStage sequence",
+    "asset_id" : "111dd697-dd2a-43de-8f60-81df5d334e07",
+    "owner_id" : "1000331001",
+    "version" : 0
+  },
+  "entity" : {
+    "job" : {
+      "asset_ref" : "39d63d96-ed5a-4565-ace8-b4b023a17ab0",
+      "schedule_id" : "",
+      "project_name" : "GITHUB integrado",
+      "configuration" : {
+        "env_type" : "",
+        "env_variables" : [ ]
+      },
+      "last_run_time" : "deprecated field",
+      "asset_ref_type" : "orchestration_flow",
+      "last_run_status" : "deprecated field",
+      "last_run_initiator" : "deprecated field",
+      "schedule_creator_id" : "",
+      "enable_notifications" : true,
+      "future_scheduled_runs" : [ ],
+      "last_run_status_timestamp" : 0,
+      "flow_name" : "JS_IIP_InterimLoad_Loop"
+    }
+  }
+}

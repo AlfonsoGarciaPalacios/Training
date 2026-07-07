@@ -1,0 +1,31 @@
+{
+  "metadata" : {
+    "name" : "Trial job - PipelineTestNodesSendEmail",
+    "description" : "Trial job and run created for the pipeline: PipelineTestNodesSendEmail",
+    "asset_id" : "47bb133d-bc82-4f9c-b08a-6c55199941b1",
+    "owner_id" : "1000331001",
+    "version" : 0
+  },
+  "entity" : {
+    "job" : {
+      "asset_ref" : "b0c7d7c1-62fd-4e3b-bdce-7bfb52f14678",
+      "schedule_id" : "",
+      "project_name" : "GITHUB integrado",
+      "configuration" : {
+        "version" : "b0c7d7c1-62fd-4e3b-bdce-7bfb52f14678-0",
+        "env_type" : "",
+        "sub_type" : "oflow_trial_run",
+        "env_variables" : [ ]
+      },
+      "last_run_time" : "deprecated field",
+      "asset_ref_type" : "orchestration_flow",
+      "last_run_status" : "deprecated field",
+      "last_run_initiator" : "deprecated field",
+      "schedule_creator_id" : "",
+      "enable_notifications" : true,
+      "future_scheduled_runs" : [ ],
+      "last_run_status_timestamp" : 0,
+      "flow_name" : "PipelineTestNodesSendEmail"
+    }
+  }
+}

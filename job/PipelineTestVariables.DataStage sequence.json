@@ -1,0 +1,28 @@
+{
+  "metadata" : {
+    "name" : "PipelineTestVariables.DataStage sequence",
+    "asset_id" : "efb40a41-5200-4c35-8ba9-e7f82e58b3e8",
+    "owner_id" : "1000331001",
+    "version" : 0
+  },
+  "entity" : {
+    "job" : {
+      "asset_ref" : "e79f51db-dfdb-4a5e-8f0c-5bec0da97a4f",
+      "schedule_id" : "",
+      "project_name" : "GITHUB integrado",
+      "configuration" : {
+        "env_type" : "",
+        "env_variables" : [ ]
+      },
+      "last_run_time" : "deprecated field",
+      "asset_ref_type" : "orchestration_flow",
+      "last_run_status" : "deprecated field",
+      "last_run_initiator" : "deprecated field",
+      "schedule_creator_id" : "",
+      "enable_notifications" : true,
+      "future_scheduled_runs" : [ ],
+      "last_run_status_timestamp" : 0,
+      "flow_name" : "PipelineTestVariables"
+    }
+  }
+}

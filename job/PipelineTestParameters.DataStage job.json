@@ -1,0 +1,33 @@
+{
+  "metadata" : {
+    "name" : "PipelineTestParameters.DataStage job",
+    "description" : "",
+    "asset_id" : "0d44b462-7224-43e1-bce6-abe27f2225b6",
+    "owner_id" : "1000331001",
+    "version" : 0
+  },
+  "entity" : {
+    "job" : {
+      "asset_ref" : "b205fe2f-c2e4-40fd-bd87-d3570d882654",
+      "schedule_id" : "",
+      "project_name" : "GITHUB integrado",
+      "configuration" : {
+        "env_type" : "",
+        "env_variables" : [ ]
+      },
+      "last_run_time" : "deprecated field",
+      "asset_ref_type" : "orchestration_flow",
+      "job_parameters" : [ {
+        "name" : "ParameterSetTest.ParameterInteger",
+        "value" : "0"
+      } ],
+      "last_run_status" : "deprecated field",
+      "last_run_initiator" : "deprecated field",
+      "schedule_creator_id" : "",
+      "enable_notifications" : true,
+      "future_scheduled_runs" : [ ],
+      "last_run_status_timestamp" : 0,
+      "flow_name" : "PipelineTestParameters"
+    }
+  }
+}

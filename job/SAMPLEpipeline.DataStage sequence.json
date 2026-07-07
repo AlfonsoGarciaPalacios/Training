@@ -1,0 +1,28 @@
+{
+  "metadata" : {
+    "name" : "SAMPLEpipeline.DataStage sequence",
+    "asset_id" : "86c8e176-c500-4f04-b17e-f45a13c27f56",
+    "owner_id" : "1000331001",
+    "version" : 0
+  },
+  "entity" : {
+    "job" : {
+      "asset_ref" : "2566e218-0ca8-478c-8588-e775e14ac90f",
+      "schedule_id" : "",
+      "project_name" : "GITHUB integrado",
+      "configuration" : {
+        "env_type" : "",
+        "env_variables" : [ ]
+      },
+      "last_run_time" : "deprecated field",
+      "asset_ref_type" : "orchestration_flow",
+      "last_run_status" : "deprecated field",
+      "last_run_initiator" : "deprecated field",
+      "schedule_creator_id" : "",
+      "enable_notifications" : true,
+      "future_scheduled_runs" : [ ],
+      "last_run_status_timestamp" : 0,
+      "flow_name" : "SAMPLE pipeline"
+    }
+  }
+}
