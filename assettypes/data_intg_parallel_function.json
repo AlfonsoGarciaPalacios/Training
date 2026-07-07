@@ -1,0 +1,39 @@
+{
+  "description": "Function libraries that can be used in a flow.",
+  "fields": [
+    {
+      "key": "dummy_field",
+      "type": "string",
+      "facet": false,
+      "is_array": false,
+      "search_path": "dummy_field",
+      "is_searchable_across_types": false
+    }
+  ],
+  "relationships": [],
+  "localized_metadata_attributes": {
+    "name": {
+      "de": "Funktionsbibliothek'",
+      "en": "Function library",
+      "eo": "[Esperanto~Function library~~eo]",
+      "es": "Biblioteca de funciones",
+      "fr": "Bibliothèque de fonctions",
+      "it": "Libreria di funzioni",
+      "ja": "関数ライブラリー",
+      "ko": "함수 라이브러리",
+      "pt": "Biblioteca de funções",
+      "ru": "Библиотека функций",
+      "sv": "Funktionsbibliotek",
+      "zh": "功能库",
+      "zh-TW": "函數庫",
+      "default": "Function library"
+    }
+  },
+  "global_search_searchable": [],
+  "attribute_only": false,
+  "is_column_custom_attribute": false,
+  "can_have_image": false,
+  "version": 1,
+  "name": "data_intg_parallel_function",
+  "allow_decorators": true
+}
