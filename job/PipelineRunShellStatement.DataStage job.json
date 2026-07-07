@@ -1,0 +1,29 @@
+{
+  "metadata" : {
+    "name" : "PipelineRunShellStatement.DataStage job",
+    "description" : "",
+    "asset_id" : "ca5769e4-186b-40d2-a478-22782ba081f0",
+    "owner_id" : "1000331001",
+    "version" : 0
+  },
+  "entity" : {
+    "job" : {
+      "asset_ref" : "c61420a2-f9d2-49d8-9486-b1e7b135cf90",
+      "schedule_id" : "",
+      "project_name" : "GITHUB integrado",
+      "configuration" : {
+        "env_type" : "",
+        "env_variables" : [ ]
+      },
+      "last_run_time" : "deprecated field",
+      "asset_ref_type" : "orchestration_flow",
+      "last_run_status" : "deprecated field",
+      "last_run_initiator" : "deprecated field",
+      "schedule_creator_id" : "",
+      "enable_notifications" : true,
+      "future_scheduled_runs" : [ ],
+      "last_run_status_timestamp" : 0,
+      "flow_name" : "PipelineRunShellStatement"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "metadata" : {
+    "name" : "SKG_GeneratorByFileKey.DataStage job",
+    "asset_id" : "90bbc76c-ad98-4a0a-942f-dfcbf514379f",
+    "owner_id" : "1000331001",
+    "version" : 0
+  },
+  "entity" : {
+    "job" : {
+      "asset_ref" : "1bd1cac5-6998-4d83-b3e0-e1a8f79d6885",
+      "schedule_id" : "",
+      "project_name" : "GITHUB integrado",
+      "configuration" : {
+        "env_type" : "",
+        "flow_limits" : {
+          "warn_limit" : "100"
+        },
+        "env_variables" : [ ],
+        "runPriorityQueue" : "Medium"
+      },
+      "last_run_time" : "deprecated field",
+      "asset_ref_type" : "data_intg_flow",
+      "last_run_status" : "deprecated field",
+      "last_run_initiator" : "deprecated field",
+      "schedule_creator_id" : "",
+      "enable_notifications" : true,
+      "future_scheduled_runs" : [ ],
+      "last_run_status_timestamp" : 0,
+      "flow_name" : "SKG_GeneratorByFileKey"
+    }
+  }
+}

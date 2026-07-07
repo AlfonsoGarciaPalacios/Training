@@ -1,0 +1,1114 @@
+{
+  "project" : "GITHUB commit",
+  "projectId" : "4eefd768-437b-4cf1-bf57-507f656f6da4",
+  "created_by" : "cpadmin",
+  "created_at" : "2026-07-07T13:29:52.056222756Z",
+  "environment" : "cp4d",
+  "services_info" : [ {
+    "name" : "ds-canvas",
+    "version" : "531.0.49"
+  }, {
+    "name" : "ds-flows",
+    "version" : "531.0.49"
+  }, {
+    "name" : "ds-codegen",
+    "version" : "531.0.49"
+  }, {
+    "name" : "ds-flow-runtime",
+    "version" : "531.0.11"
+  }, {
+    "name" : "ds-migration",
+    "version" : "531.0.21"
+  }, {
+    "name" : "DSAssets",
+    "version" : "531.0.7"
+  }, {
+    "name" : "ds-cas-lite",
+    "version" : "531.0.7"
+  }, {
+    "name" : "ds-px-runtime",
+    "version" : "531.0.31"
+  } ],
+  "assets" : [ {
+    "name" : "TEST flow.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "text2excel",
+    "type" : "px_executables",
+    "location" : "text2excel"
+  }, {
+    "name" : "xml_parser_example",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "charset_prevalence_job",
+    "type" : "px_executables",
+    "location" : "charset_prevalence_job"
+  }, {
+    "name" : "FlowTestWriteFiles.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "hierarchical_data",
+    "type" : "px_executables",
+    "location" : "hierarchical_data"
+  }, {
+    "name" : "FlowTestXMLOutput",
+    "type" : "px_executables",
+    "location" : "FlowTestXMLOutput"
+  }, {
+    "name" : "text2excel.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestSOAP_copy_1721756938741.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "XMLInput",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestParameters.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestOptimization.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "xml_hpivot_example",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestXMCURL",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestFunction.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "xml_parser_example.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "SKG_GeneratorByFileKey",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "SKG_Transformer",
+    "type" : "px_executables",
+    "location" : "SKG_Transformer"
+  }, {
+    "name" : "JP_F00_RCO_DIMENSION_DS",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestOptimization",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "SAMPLEpipeline.DataStage sequence",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestExternalTarget.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestSOAP_corregido",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "TEST flow",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestAllRunnable.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestPushdownDB2Warehouse",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "SCD2_Facts",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestAllSample",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "hierarchical_data",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestReadDB2",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "RCP_db_connector",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "charset_conversion_Examples",
+    "type" : "px_executables",
+    "location" : "charset_conversion_Examples"
+  }, {
+    "name" : "SKG_CreateFileKeySource",
+    "type" : "px_executables",
+    "location" : "SKG_CreateFileKeySource"
+  }, {
+    "name" : "FlowTestSOAP",
+    "type" : "px_executables",
+    "location" : "FlowTestSOAP"
+  }, {
+    "name" : "PipelineTestNodes.DataStage sequence",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestXMLInput.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestREST2.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "excel2test",
+    "type" : "px_executables",
+    "location" : "excel2test"
+  }, {
+    "name" : "FlowTestXMLOutput.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestRESTCompleto1",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestRESTCompleto2",
+    "type" : "px_executables",
+    "location" : "FlowTestRESTCompleto2"
+  }, {
+    "name" : "FlowTestRESTCompleto1",
+    "type" : "px_executables",
+    "location" : "FlowTestRESTCompleto1"
+  }, {
+    "name" : "FlowTestSalesforceOptimizedProxyParameters",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestRESTCompleto2",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestPartitioning",
+    "type" : "px_executables",
+    "location" : "FlowTestPartitioning"
+  }, {
+    "name" : "PipelineTestNodesImport",
+    "type" : "orchestration_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestWriteFiles",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "JS_IIP_InterimLoad_Loop",
+    "type" : "orchestration_flow",
+    "location" : ""
+  }, {
+    "name" : "PipelineTestNodesImport.DataStage sequence",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestXMLInput",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "SCD1_Run.DataStage sequence",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "RESTDemo",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestEnvironments",
+    "type" : "px_executables",
+    "location" : "FlowTestEnvironments"
+  }, {
+    "name" : "excel2test",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "webDemo.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestExternalSource",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "jpFTPRead.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "text2excel",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "RCP_multi_test",
+    "type" : "px_executables",
+    "location" : "RCP_multi_test"
+  }, {
+    "name" : "FlowTestSOAP_corregido.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "xml_union_example",
+    "type" : "px_executables",
+    "location" : "xml_union_example"
+  }, {
+    "name" : "XMLOutput",
+    "type" : "px_executables",
+    "location" : "XMLOutput"
+  }, {
+    "name" : "xml_switch_example.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestBuildOperator",
+    "type" : "px_executables",
+    "location" : "FlowTestBuildOperator"
+  }, {
+    "name" : "FLOW_TEST_AGGREGATOR",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestAllRunnable",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "SCD1_FactsLoadRef",
+    "type" : "px_executables",
+    "location" : "SCD1_FactsLoadRef"
+  }, {
+    "name" : "FlowTestXMCURL",
+    "type" : "px_executables",
+    "location" : "FlowTestXMCURL"
+  }, {
+    "name" : "SKG_GeneratorByFileKey.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "xml_regroup_example",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "RCP_db_connector_parameter",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestBuildOperator.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "SKG_CreateDatabaseSequence",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestWriteDB2.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "xml_regroup_example",
+    "type" : "px_executables",
+    "location" : "xml_regroup_example"
+  }, {
+    "name" : "SCD2_Facts.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestSOAP_corregido",
+    "type" : "px_executables",
+    "location" : "FlowTestSOAP_corregido"
+  }, {
+    "name" : "FlowTestModify.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestFunction",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "SCD1_FactsLoad",
+    "type" : "px_executables",
+    "location" : "SCD1_FactsLoad"
+  }, {
+    "name" : "FlowTestEnvironments.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "SKG_Transformer.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "PipelineRunShellStatement.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "AgcomTratamientoUsuarios",
+    "type" : "data_intg_subflow",
+    "location" : ""
+  }, {
+    "name" : "SAMPLE flow.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestQuality.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestExternalTarget",
+    "type" : "px_executables",
+    "location" : "FlowTestExternalTarget"
+  }, {
+    "name" : "CharsetOnFiles.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestReadFiles.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "ftpDemo",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestExecute.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestREST1.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "webDemo",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestParameters",
+    "type" : "px_executables",
+    "location" : "FlowTestParameters"
+  }, {
+    "name" : "FlowTestXMCURL.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "jpWrappedTarget",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "XMLTransformer",
+    "type" : "px_executables",
+    "location" : "XMLTransformer"
+  }, {
+    "name" : "SCD1_Run",
+    "type" : "orchestration_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestPushdown.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestLookup",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "SKG_CreateDatabaseSequence.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestSalesforceOptimizedProxyValues",
+    "type" : "px_executables",
+    "location" : "FlowTestSalesforceOptimizedProxyValues"
+  }, {
+    "name" : "RCP_multi_test.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "excel2testRCP.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestPivot.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "xml_union_example.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "jpWrappedTarget.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestPropagation",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "excel2test.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestSubflow.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "excel2testRCP",
+    "type" : "px_executables",
+    "location" : "excel2testRCP"
+  }, {
+    "name" : "FlowTestRESTCompleto.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestModify",
+    "type" : "px_executables",
+    "location" : "FlowTestModify"
+  }, {
+    "name" : "SCD1_FactsCreate",
+    "type" : "px_executables",
+    "location" : "SCD1_FactsCreate"
+  }, {
+    "name" : "FlowTestSalesforceOptimizedProxyParameters",
+    "type" : "px_executables",
+    "location" : "FlowTestSalesforceOptimizedProxyParameters"
+  }, {
+    "name" : "PipelineTestAllSample.DataStage sequence",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "webDemo",
+    "type" : "px_executables",
+    "location" : "webDemo"
+  }, {
+    "name" : "Trial job - PipelineTestNodesSendEmail",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "jpWrappedTarget",
+    "type" : "px_executables",
+    "location" : "jpWrappedTarget"
+  }, {
+    "name" : "FlowTestLookup.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestExecute",
+    "type" : "px_executables",
+    "location" : "FlowTestExecute"
+  }, {
+    "name" : "FlowTestSOAP",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestREST2",
+    "type" : "px_executables",
+    "location" : "FlowTestREST2"
+  }, {
+    "name" : "JP_ExecuteSQL.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestExternalTarget",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestREST1",
+    "type" : "px_executables",
+    "location" : "FlowTestREST1"
+  }, {
+    "name" : "PipelineRunShellStatement",
+    "type" : "orchestration_flow",
+    "location" : ""
+  }, {
+    "name" : "PipelineTestVariables.DataStage sequence",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "SKG_GeneratorByFileKey",
+    "type" : "px_executables",
+    "location" : "SKG_GeneratorByFileKey"
+  }, {
+    "name" : "SKG_GeneratorByDatabaseSequence.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestStages.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestPivot",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "PipelineTestNodes",
+    "type" : "orchestration_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestPushdownDB2",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "JS_IIP_InterimLoad_Loop.DataStage sequence",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestReadDB2.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "SAMPLE pipeline",
+    "type" : "orchestration_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestSalesforceOptimizedProxyValues.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestPushdownDB2Warehouse.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "RCPtest_1.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "jp_STPRead",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "jpWrappedSource",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "SAMPLE flow",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "xml_regroup_example.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestReadFiles",
+    "type" : "px_executables",
+    "location" : "FlowTestReadFiles"
+  }, {
+    "name" : "FlowTestPartitioning.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "ftpDemo.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "SCD2_SKG",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "excel2testRCP",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestAllSample.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestParameters",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestPivot",
+    "type" : "px_executables",
+    "location" : "FlowTestPivot"
+  }, {
+    "name" : "FlowTestREST2",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestREST1",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestStages",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "RCP_db_connector_parameter.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestModify",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestSOAP.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestREST.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestXML1.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestPushdownDB2.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "PipelineTestAllSample",
+    "type" : "orchestration_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestXMLGet",
+    "type" : "px_executables",
+    "location" : "FlowTestXMLGet"
+  }, {
+    "name" : "PipelineTestNodesSendEmail",
+    "type" : "orchestration_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestExternalSource",
+    "type" : "px_executables",
+    "location" : "FlowTestExternalSource"
+  }, {
+    "name" : "RESTDemo",
+    "type" : "px_executables",
+    "location" : "RESTDemo"
+  }, {
+    "name" : "SKG_CreateFileKeySource.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "jpWrappedSource",
+    "type" : "px_executables",
+    "location" : "jpWrappedSource"
+  }, {
+    "name" : "SCD1_FactsCreate",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "JP_ExecuteSQL",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestSalesforceOptimizedProxyParameters.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "xml_hpivot_example.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestQuality",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowRunShellStatement",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "xml_parser_example",
+    "type" : "px_executables",
+    "location" : "xml_parser_example"
+  }, {
+    "name" : "charset_conversion_Examples",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "jp_STPRead.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "SCD2_Reset",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "SCD1_FactsLoadRef.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "InformeProveedores",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "xml_switch_example",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "JS_02_DQC_ExecuteRules",
+    "type" : "orchestration_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestExecute",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestPushdownDB2",
+    "type" : "px_executables",
+    "location" : "FlowTestPushdownDB2"
+  }, {
+    "name" : "FlowTestXMLInput",
+    "type" : "px_executables",
+    "location" : "FlowTestXMLInput"
+  }, {
+    "name" : "RCP_db_connector.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "JP_F00_RCO_DIMENSION_DS.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowRunShellStatement",
+    "type" : "px_executables",
+    "location" : "FlowRunShellStatement"
+  }, {
+    "name" : "SKG_GeneratorByDatabaseSequence",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "CharsetOnFiles",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "SCD2_Dims.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "XMLTransformer",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "xml_hjoin_example",
+    "type" : "px_executables",
+    "location" : "xml_hjoin_example"
+  }, {
+    "name" : "FlowTestMapping",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "RCPtest_1",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestBuildOperator",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "SCD1_Reset",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestXMLGet",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestSalesforceOptimizedProxy.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "InformeProveedores.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "SCD1_Reset",
+    "type" : "px_executables",
+    "location" : "SCD1_Reset"
+  }, {
+    "name" : "XMLInput",
+    "type" : "px_executables",
+    "location" : "XMLInput"
+  }, {
+    "name" : "PipelineTestNodesExport",
+    "type" : "orchestration_flow",
+    "location" : ""
+  }, {
+    "name" : "XMLInput.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "SKG_CreateFileKeySource",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestPushdownDB2Warehouse",
+    "type" : "px_executables",
+    "location" : "FlowTestPushdownDB2Warehouse"
+  }, {
+    "name" : "JS_02_DQC_ExecuteRules.DataStage sequence",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "RCP_multi_test",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestExternalSource.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "jpWrappedSource.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestPropagation.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestFunction",
+    "type" : "px_executables",
+    "location" : "FlowTestFunction"
+  }, {
+    "name" : "Trial job - PipelineTestParameters",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FLOW_TEST_AGGREGATOR.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "SQ_10_REPLICAR_TABLAS.DataStage sequence",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "xml_hpivot_example",
+    "type" : "px_executables",
+    "location" : "xml_hpivot_example"
+  }, {
+    "name" : "charset_conversion_Examples.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestPartitioning",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestAllRunnable",
+    "type" : "px_executables",
+    "location" : "FlowTestAllRunnable"
+  }, {
+    "name" : "FlowRunShellStatement.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "Trial job - PipelineRunShellStatement",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "XMLTransformer.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "JP_F20_GEN_LOAD_F20_ERROR_LOG.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "SKG_Transformer",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "charset_prevalence_job",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestOptimization",
+    "type" : "px_executables",
+    "location" : "FlowTestOptimization"
+  }, {
+    "name" : "JP_F20_GEN_LOAD_F20_ERROR_LOG",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "jpFTPWrite.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "SCD1_FactsCreate.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "CharsetOnFiles",
+    "type" : "px_executables",
+    "location" : "CharsetOnFiles"
+  }, {
+    "name" : "FlowTestStages",
+    "type" : "px_executables",
+    "location" : "FlowTestStages"
+  }, {
+    "name" : "SCD1_Reset.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestLookup",
+    "type" : "px_executables",
+    "location" : "FlowTestLookup"
+  }, {
+    "name" : "xml_hjoin_example",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "SQ_10_REPLICAR_TABLAS",
+    "type" : "orchestration_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestWriteDB2",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "jpFTPRead",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestSubflow",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestRESTCompleto1.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestSalesforceOptimizedProxyValues",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "charset_prevalence_job.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "Trial job - PipelineTestNodesExport",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestReadFiles",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "XMLOutput",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "xml_union_example",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "SCD2_SKG.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "SCD1_FactsLoad",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "PipelineTestVariables",
+    "type" : "orchestration_flow",
+    "location" : ""
+  }, {
+    "name" : "XMLOutput.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "PipelineTestParameters",
+    "type" : "orchestration_flow",
+    "location" : ""
+  }, {
+    "name" : "SCD2_Reset.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "RCPtest_1",
+    "type" : "px_executables",
+    "location" : "RCPtest_1"
+  }, {
+    "name" : "FLOW_TEST_AGGREGATOR",
+    "type" : "px_executables",
+    "location" : "FLOW_TEST_AGGREGATOR"
+  }, {
+    "name" : "FlowTestSalesforce.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "xml_hjoin_example.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "SCD2_Dims",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "SCD1_FactsLoad.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "xml_switch_example",
+    "type" : "px_executables",
+    "location" : "xml_switch_example"
+  }, {
+    "name" : "FlowTestXMLOutput",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "FlowTestMapping.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestXML.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestEnvironments",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "SCD1_FactsLoadRef",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "hierarchical_data.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "jpFTPWrite",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "PipelineTestParameters.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestSalesforce",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
+    "name" : "RESTDemo.DataStage job",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "FlowTestWriteFiles",
+    "type" : "px_executables",
+    "location" : "FlowTestWriteFiles"
+  }, {
+    "name" : "FlowTestRESTCompleto2.DataStage job",
+    "type" : "job",
+    "location" : ""
+  } ],
+  "flow_job_mapping" : [ ]
+}

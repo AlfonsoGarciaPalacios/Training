@@ -1,0 +1,30 @@
+{
+  "metadata" : {
+    "name" : "Trial job - PipelineTestNodesExport",
+    "description" : "Trial job and run created for the pipeline: PipelineTestNodesExport",
+    "asset_id" : "6f702d25-2eac-49fc-ac99-a9ec0c302df6",
+    "owner_id" : "1000331001",
+    "version" : 0
+  },
+  "entity" : {
+    "job" : {
+      "asset_ref" : "52167d50-9903-4646-8068-6b2efa96e834",
+      "schedule_id" : "",
+      "project_name" : "GITHUB integrado",
+      "configuration" : {
+        "env_type" : "",
+        "sub_type" : "oflow_trial_run",
+        "env_variables" : [ ]
+      },
+      "last_run_time" : "deprecated field",
+      "asset_ref_type" : "orchestration_flow",
+      "last_run_status" : "deprecated field",
+      "last_run_initiator" : "deprecated field",
+      "schedule_creator_id" : "",
+      "enable_notifications" : true,
+      "future_scheduled_runs" : [ ],
+      "last_run_status_timestamp" : 0,
+      "flow_name" : "PipelineTestNodesExport"
+    }
+  }
+}

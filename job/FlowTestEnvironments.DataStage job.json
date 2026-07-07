@@ -1,0 +1,34 @@
+{
+  "metadata" : {
+    "name" : "FlowTestEnvironments.DataStage job",
+    "asset_id" : "0fc6ff68-d6f7-42a0-8bac-2677d6c97992",
+    "owner_id" : "1000331001",
+    "version" : 0
+  },
+  "entity" : {
+    "job" : {
+      "asset_ref" : "a3373cd1-b444-4f9b-b620-acaad6342650",
+      "schedule_id" : "",
+      "project_name" : "GITHUB integrado",
+      "configuration" : {
+        "env_type" : "",
+        "flow_limits" : {
+          "warn_limit" : 100
+        },
+        "env_variables" : [ ],
+        "runPriorityQueue" : "Medium"
+      },
+      "last_run_time" : "deprecated field",
+      "asset_ref_type" : "data_intg_flow",
+      "job_parameters" : [ ],
+      "last_run_status" : "deprecated field",
+      "retention_policy" : { },
+      "last_run_initiator" : "deprecated field",
+      "schedule_creator_id" : "",
+      "enable_notifications" : true,
+      "future_scheduled_runs" : [ ],
+      "last_run_status_timestamp" : 0,
+      "flow_name" : "FlowTestEnvironments"
+    }
+  }
+}

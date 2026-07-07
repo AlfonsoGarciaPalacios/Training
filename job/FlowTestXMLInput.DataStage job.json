@@ -1,0 +1,32 @@
+{
+  "metadata" : {
+    "name" : "FlowTestXMLInput.DataStage job",
+    "asset_id" : "8df40bda-8fbf-42d3-b0fb-cb7fe33ccf9e",
+    "owner_id" : "1000331001",
+    "version" : 0
+  },
+  "entity" : {
+    "job" : {
+      "asset_ref" : "268d97d1-7a7e-49da-a7b4-0f7404b699f1",
+      "schedule_id" : "",
+      "project_name" : "GITHUB integrado",
+      "configuration" : {
+        "env_type" : "",
+        "flow_limits" : {
+          "warn_limit" : 100
+        },
+        "env_variables" : [ ],
+        "runPriorityQueue" : "Medium"
+      },
+      "last_run_time" : "deprecated field",
+      "asset_ref_type" : "data_intg_flow",
+      "last_run_status" : "deprecated field",
+      "last_run_initiator" : "deprecated field",
+      "schedule_creator_id" : "",
+      "enable_notifications" : true,
+      "future_scheduled_runs" : [ ],
+      "last_run_status_timestamp" : 0,
+      "flow_name" : "FlowTestXMLInput"
+    }
+  }
+}

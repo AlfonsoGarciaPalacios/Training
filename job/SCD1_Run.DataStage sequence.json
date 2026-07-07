@@ -1,0 +1,28 @@
+{
+  "metadata" : {
+    "name" : "SCD1_Run.DataStage sequence",
+    "asset_id" : "64b1af62-8343-4392-8812-565b4659d8a1",
+    "owner_id" : "1000331001",
+    "version" : 0
+  },
+  "entity" : {
+    "job" : {
+      "asset_ref" : "0204e811-1c1d-496b-988d-fa61969837cc",
+      "schedule_id" : "",
+      "project_name" : "GITHUB integrado",
+      "configuration" : {
+        "env_type" : "",
+        "env_variables" : [ ]
+      },
+      "last_run_time" : "deprecated field",
+      "asset_ref_type" : "orchestration_flow",
+      "last_run_status" : "deprecated field",
+      "last_run_initiator" : "deprecated field",
+      "schedule_creator_id" : "",
+      "enable_notifications" : true,
+      "future_scheduled_runs" : [ ],
+      "last_run_status_timestamp" : 0,
+      "flow_name" : "SCD1_Run"
+    }
+  }
+}

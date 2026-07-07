@@ -1,0 +1,226 @@
+{
+  "data_intg_flow" : {
+    "CharsetOnFiles" : [ ],
+    "FLOW_TEST_AGGREGATOR" : [ ],
+    "FlowRunShellStatement" : [ ],
+    "FlowTestAllRunnable" : [ {
+      "id" : "2b39247f-cb20-48e5-816b-ef22717132d2",
+      "name" : "ConnectionTestHTTP",
+      "asset_type" : "connection"
+    } ],
+    "FlowTestAllSample" : [ ],
+    "FlowTestBuildOperator" : [ {
+      "id" : "5ff5958d-fbca-4471-a3b1-481bf76ebe30",
+      "name" : "SubflowBuildOperator",
+      "asset_type" : "data_intg_subflow"
+    } ],
+    "FlowTestEnvironments" : [ ],
+    "FlowTestExecute" : [ ],
+    "FlowTestExternalSource" : [ ],
+    "FlowTestExternalTarget" : [ ],
+    "FlowTestFunction" : [ {
+      "id" : "2c29fd2d-f6c6-4d57-b5ed-ba7d7199f951",
+      "name" : "FunctionLibraryTest"
+    } ],
+    "FlowTestLookup" : [ ],
+    "FlowTestMapping" : [ ],
+    "FlowTestModify" : [ ],
+    "FlowTestOptimization" : [ ],
+    "FlowTestParameters" : [ {
+      "id" : "4c18a8e4-4b22-47cd-9be9-f63452a9d7be",
+      "name" : "ParameterSetTest",
+      "asset_type" : "parameter_set"
+    } ],
+    "FlowTestPartitioning" : [ ],
+    "FlowTestPivot" : [ ],
+    "FlowTestPropagation" : [ {
+      "id" : "23c85677-08e4-4a99-95e8-a021e69bda97",
+      "name" : "FlowTestWriteFiles.ds"
+    } ],
+    "FlowTestPushdownDB2" : [ {
+      "id" : "2c29fd2d-f6c6-4d57-b5ed-ba7d7199f951",
+      "name" : "FunctionLibraryTest"
+    } ],
+    "FlowTestPushdownDB2Warehouse" : [ ],
+    "FlowTestQuality" : [ ],
+    "FlowTestREST1" : [ ],
+    "FlowTestREST2" : [ ],
+    "FlowTestRESTCompleto1" : [ ],
+    "FlowTestRESTCompleto2" : [ ],
+    "FlowTestReadDB2" : [ {
+      "id" : "3567c373-5dcd-428f-89a5-46e3f56cd2c1",
+      "name" : "ConnectionTestDB2",
+      "asset_type" : "connection"
+    } ],
+    "FlowTestReadFiles" : [ {
+      "id" : "23c85677-08e4-4a99-95e8-a021e69bda97",
+      "name" : "FlowTestWriteFiles.ds"
+    } ],
+    "FlowTestSOAP" : [ ],
+    "FlowTestSOAP_corregido" : [ ],
+    "FlowTestSalesforce" : [ ],
+    "FlowTestSalesforceOptimizedProxyParameters" : [ ],
+    "FlowTestSalesforceOptimizedProxyValues" : [ ],
+    "FlowTestStages" : [ ],
+    "FlowTestSubflow" : [ ],
+    "FlowTestWriteDB2" : [ {
+      "id" : "3567c373-5dcd-428f-89a5-46e3f56cd2c1",
+      "name" : "ConnectionTestDB2",
+      "asset_type" : "connection"
+    } ],
+    "FlowTestWriteFiles" : [ ],
+    "FlowTestXMCURL" : [ ],
+    "FlowTestXMLGet" : [ ],
+    "FlowTestXMLInput" : [ ],
+    "FlowTestXMLOutput" : [ ],
+    "InformeProveedores" : [ {
+      "id" : "f4b9d1f6-3fc3-460e-bfff-c463f729b4b9",
+      "name" : "ConnParamSet_ODBC",
+      "asset_type" : "parameter_set"
+    } ],
+    "JP_ExecuteSQL" : [ {
+      "id" : "cd0dc375-6508-4e7f-a32c-5da5a645d7f8",
+      "name" : "ConnParamSet_DB2__PM_IISREP_Database",
+      "asset_type" : "parameter_set"
+    } ],
+    "JP_F00_RCO_DIMENSION_DS" : [ {
+      "id" : "ce80e2f3-4f77-40f5-b184-c273d990950a",
+      "name" : "ConnParamSet_ODBC_PM_CHK_SERVER",
+      "asset_type" : "parameter_set"
+    }, {
+      "id" : "a669baf3-ecf7-4204-b522-b8d68f32394c",
+      "name" : "ConnParamSet_ODBC_PM_APP_SERVER",
+      "asset_type" : "parameter_set"
+    } ],
+    "JP_F20_GEN_LOAD_F20_ERROR_LOG" : [ ],
+    "RCP_db_connector" : [ {
+      "id" : "a470b57c-ee9c-40bb-abc6-d95f6e381260",
+      "name" : "ConnParamSet_DB2_XMETA",
+      "asset_type" : "parameter_set"
+    } ],
+    "RCP_db_connector_parameter" : [ {
+      "id" : "a470b57c-ee9c-40bb-abc6-d95f6e381260",
+      "name" : "ConnParamSet_DB2_XMETA",
+      "asset_type" : "parameter_set"
+    } ],
+    "RCP_multi_test" : [ ],
+    "RCPtest_1" : [ ],
+    "RESTDemo" : [ ],
+    "SAMPLE flow" : [ ],
+    "SCD1_FactsCreate" : [ ],
+    "SCD1_FactsLoad" : [ ],
+    "SCD1_FactsLoadRef" : [ ],
+    "SCD1_Reset" : [ ],
+    "SCD2_Dims" : [ {
+      "id" : "e2fe558d-92b4-4c6f-962e-ab574652be75",
+      "name" : "ConnParamSet_DB2_DSDB",
+      "asset_type" : "parameter_set"
+    }, {
+      "id" : "5f87679c-97ac-4e04-99b0-50f92bcd5165",
+      "name" : "ConnParamSet_SCD",
+      "asset_type" : "parameter_set"
+    } ],
+    "SCD2_Facts" : [ {
+      "id" : "e2fe558d-92b4-4c6f-962e-ab574652be75",
+      "name" : "ConnParamSet_DB2_DSDB",
+      "asset_type" : "parameter_set"
+    } ],
+    "SCD2_Reset" : [ {
+      "id" : "65fbb042-afdc-4958-8da5-0122e1c26378",
+      "name" : "ConnParamSet_ODBC_DSDB",
+      "asset_type" : "parameter_set"
+    } ],
+    "SCD2_SKG" : [ {
+      "id" : "5e38e90d-d05d-400a-9e4b-71b79e5e7774",
+      "name" : "ConnParamSet_SurrogateKeyGeneratorN",
+      "asset_type" : "parameter_set"
+    } ],
+    "SKG_CreateDatabaseSequence" : [ {
+      "id" : "5e38e90d-d05d-400a-9e4b-71b79e5e7774",
+      "name" : "ConnParamSet_SurrogateKeyGeneratorN",
+      "asset_type" : "parameter_set"
+    } ],
+    "SKG_CreateFileKeySource" : [ ],
+    "SKG_GeneratorByDatabaseSequence" : [ {
+      "id" : "5e38e90d-d05d-400a-9e4b-71b79e5e7774",
+      "name" : "ConnParamSet_SurrogateKeyGeneratorN",
+      "asset_type" : "parameter_set"
+    } ],
+    "SKG_GeneratorByFileKey" : [ ],
+    "SKG_Transformer" : [ ],
+    "TEST flow" : [ ],
+    "XMLInput" : [ ],
+    "XMLOutput" : [ ],
+    "XMLTransformer" : [ ],
+    "charset_conversion_Examples" : [ ],
+    "charset_prevalence_job" : [ ],
+    "excel2test" : [ ],
+    "excel2testRCP" : [ ],
+    "ftpDemo" : [ ],
+    "hierarchical_data" : [ ],
+    "jpFTPRead" : [ ],
+    "jpFTPWrite" : [ ],
+    "jpWrappedSource" : [ {
+      "id" : "abe23bb8-a3c8-42f6-9b90-191043014b03",
+      "name" : "woSource"
+    } ],
+    "jpWrappedTarget" : [ {
+      "id" : "d629f99e-674a-4e81-8790-d2601dd41b34",
+      "name" : "woTarget"
+    } ],
+    "jp_STPRead" : [ {
+      "id" : "7a219e98-d70e-4a15-90ab-135671cad8a9",
+      "name" : "ConnParamSet_DB2",
+      "asset_type" : "parameter_set"
+    } ],
+    "text2excel" : [ ],
+    "webDemo" : [ ],
+    "xml_hjoin_example" : [ ],
+    "xml_hpivot_example" : [ ],
+    "xml_parser_example" : [ ],
+    "xml_regroup_example" : [ ],
+    "xml_switch_example" : [ ],
+    "xml_union_example" : [ ]
+  },
+  "orchestration_flow" : {
+    "JS_02_DQC_ExecuteRules" : [ ],
+    "JS_IIP_InterimLoad_Loop" : [ ],
+    "PipelineRunShellStatement" : [ ],
+    "PipelineTestAllSample" : [ {
+      "id" : "b4944cd2-586e-421c-8e60-63c5e4b2d816",
+      "name" : "FlowTestAllSample.DataStage job",
+      "asset_type" : "job"
+    }, {
+      "id" : "b5da4b87-52f8-4871-80e0-bfce73c7a304",
+      "name" : "TEST flow.DataStage job",
+      "asset_type" : "job"
+    } ],
+    "PipelineTestNodes" : [ ],
+    "PipelineTestNodesExport" : [ ],
+    "PipelineTestNodesImport" : [ ],
+    "PipelineTestNodesSendEmail" : [ ],
+    "PipelineTestParameters" : [ {
+      "id" : "b6cbe3d7-83d8-4172-9848-47626dadceb6",
+      "name" : "FlowTestParameters.DataStage job",
+      "asset_type" : "job"
+    }, {
+      "id" : "4c18a8e4-4b22-47cd-9be9-f63452a9d7be",
+      "name" : "ParameterSetTest",
+      "asset_type" : "parameter_set"
+    } ],
+    "PipelineTestVariables" : [ ],
+    "SAMPLE pipeline" : [ ],
+    "SCD1_Run" : [ ],
+    "SQ_10_REPLICAR_TABLAS" : [ ]
+  },
+  "data_intg_subflow" : {
+    "AgcomTratamientoUsuarios" : [ {
+      "id" : "93b90398-560c-431d-b7f8-079d463b221b",
+      "name" : "PS_AGCOM_RUTAS",
+      "asset_type" : "parameter_set"
+    } ]
+  },
+  "job" : { },
+  "data_intg_parallel_function" : { },
+  "data_intg_custom_stage" : { }
+}

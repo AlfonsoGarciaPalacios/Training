@@ -1,0 +1,32 @@
+{
+  "metadata" : {
+    "name" : "JP_F00_RCO_DIMENSION_DS.DataStage job",
+    "asset_id" : "1bdbfe49-e119-4e13-ae4d-2c3c3c635fd9",
+    "owner_id" : "1000331001",
+    "version" : 0
+  },
+  "entity" : {
+    "job" : {
+      "asset_ref" : "4000fbbe-b4e8-4c31-b390-64997c38f1ab",
+      "schedule_id" : "",
+      "project_name" : "GITHUB integrado",
+      "configuration" : {
+        "env_type" : "",
+        "flow_limits" : {
+          "warn_limit" : "100"
+        },
+        "env_variables" : [ ],
+        "runPriorityQueue" : "Medium"
+      },
+      "last_run_time" : "deprecated field",
+      "asset_ref_type" : "data_intg_flow",
+      "last_run_status" : "deprecated field",
+      "last_run_initiator" : "deprecated field",
+      "schedule_creator_id" : "",
+      "enable_notifications" : true,
+      "future_scheduled_runs" : [ ],
+      "last_run_status_timestamp" : 0,
+      "flow_name" : "JP_F00_RCO_DIMENSION_DS"
+    }
+  }
+}
